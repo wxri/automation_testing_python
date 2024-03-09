@@ -7,9 +7,9 @@ This project is based on automation testing by using Python language. The focus 
  * showing how to use Selenium WebDriver for automated browsing interactions
 
 # technologies used
-  Python 3.x
-  Selenium WebDriver
-  unittest
+ * Python 3.x
+ * Selenium WebDriver
+ * unittest
 
 # how to use
   1. Clone or download the whole repository to your local machine
